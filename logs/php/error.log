@@ -1,0 +1,662 @@
+[01-Feb-2024 20:01:52 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[01-Feb-2024 20:01:52 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[01-Feb-2024 20:01:52 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[01-Feb-2024 20:01:52 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[01-Feb-2024 20:01:52 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[01-Feb-2024 20:46:44 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Feb-2024 20:46:45 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[01-Feb-2024 20:46:45 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[01-Feb-2024 20:46:45 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[01-Feb-2024 20:46:45 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[01-Feb-2024 20:46:45 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[01-Feb-2024 20:47:00 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Feb-2024 20:47:14 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Feb-2024 20:47:26 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[05-Feb-2024 09:58:57 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[05-Feb-2024 10:26:19 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[05-Feb-2024 10:27:54 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[05-Feb-2024 10:29:47 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\tm-beans\lib\api\compiler\vendors\lessc.php on line 719
+[05-Feb-2024 10:30:05 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\tm-beans\lib\api\compiler\vendors\lessc.php on line 719
+[08-Feb-2024 08:53:10 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Feb-2024 08:53:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function astra_html_before() in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\header.php:18
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\template.php(725): load_template('C:\\Users\\marga\\...', true, Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\page.php(20): get_header()
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\header.php on line 18
+[08-Feb-2024 08:56:58 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Feb-2024 08:56:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function astra_html_before() in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\header.php:18
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\template.php(725): load_template('C:\\Users\\marga\\...', true, Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\page.php(20): get_header()
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\header.php on line 18
+[08-Feb-2024 08:59:50 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[08-Feb-2024 08:59:50 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[08-Feb-2024 08:59:50 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[08-Feb-2024 08:59:50 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[08-Feb-2024 08:59:50 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[08-Feb-2024 09:41:18 UTC] PHP Warning:  Constant ASTRA_THEME_VERSION already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 18
+[08-Feb-2024 09:41:18 UTC] PHP Warning:  Constant ASTRA_THEME_SETTINGS already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 19
+[08-Feb-2024 09:41:18 UTC] PHP Warning:  Constant ASTRA_THEME_DIR already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 20
+[08-Feb-2024 09:41:18 UTC] PHP Warning:  Constant ASTRA_THEME_URI already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 21
+[08-Feb-2024 09:41:18 UTC] PHP Warning:  Constant ASTRA_EXT_MIN_VER already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 27
+[08-Feb-2024 09:41:18 UTC] PHP Warning:  Constant ASTRA_PRO_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 37
+[08-Feb-2024 09:41:18 UTC] PHP Warning:  Constant ASTRA_PRO_CUSTOMIZER_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 38
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_THEME_VERSION already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 18
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_THEME_SETTINGS already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 19
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_THEME_DIR already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 20
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_THEME_URI already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 21
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_EXT_MIN_VER already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 27
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_PRO_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 37
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_PRO_CUSTOMIZER_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 38
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_THEME_VERSION already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 18
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_THEME_SETTINGS already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 19
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_THEME_DIR already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 20
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_THEME_URI already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 21
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_EXT_MIN_VER already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 27
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_PRO_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 37
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_PRO_CUSTOMIZER_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 38
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_THEME_VERSION already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 18
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_THEME_SETTINGS already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 19
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_THEME_DIR already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 20
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_THEME_URI already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 21
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_EXT_MIN_VER already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 27
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_PRO_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 37
+[08-Feb-2024 09:41:24 UTC] PHP Warning:  Constant ASTRA_PRO_CUSTOMIZER_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 38
+[08-Feb-2024 09:42:28 UTC] PHP Warning:  Constant ASTRA_THEME_VERSION already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 18
+[08-Feb-2024 09:42:28 UTC] PHP Warning:  Constant ASTRA_THEME_SETTINGS already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 19
+[08-Feb-2024 09:42:28 UTC] PHP Warning:  Constant ASTRA_THEME_DIR already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 20
+[08-Feb-2024 09:42:28 UTC] PHP Warning:  Constant ASTRA_THEME_URI already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 21
+[08-Feb-2024 09:42:28 UTC] PHP Warning:  Constant ASTRA_EXT_MIN_VER already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 27
+[08-Feb-2024 09:42:28 UTC] PHP Warning:  Constant ASTRA_PRO_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 37
+[08-Feb-2024 09:42:28 UTC] PHP Warning:  Constant ASTRA_PRO_CUSTOMIZER_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 38
+[08-Feb-2024 09:43:05 UTC] PHP Warning:  Constant ASTRA_THEME_VERSION already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 18
+[08-Feb-2024 09:43:05 UTC] PHP Warning:  Constant ASTRA_THEME_SETTINGS already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 19
+[08-Feb-2024 09:43:05 UTC] PHP Warning:  Constant ASTRA_THEME_DIR already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 20
+[08-Feb-2024 09:43:05 UTC] PHP Warning:  Constant ASTRA_THEME_URI already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 21
+[08-Feb-2024 09:43:05 UTC] PHP Warning:  Constant ASTRA_EXT_MIN_VER already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 27
+[08-Feb-2024 09:43:05 UTC] PHP Warning:  Constant ASTRA_PRO_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 37
+[08-Feb-2024 09:43:05 UTC] PHP Warning:  Constant ASTRA_PRO_CUSTOMIZER_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 38
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_THEME_VERSION already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 18
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_THEME_SETTINGS already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 19
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_THEME_DIR already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 20
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_THEME_URI already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 21
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_EXT_MIN_VER already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 27
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_PRO_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 37
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_PRO_CUSTOMIZER_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 38
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_THEME_VERSION already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 18
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_THEME_SETTINGS already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 19
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_THEME_DIR already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 20
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_THEME_URI already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 21
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_EXT_MIN_VER already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 27
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_PRO_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 37
+[08-Feb-2024 09:43:06 UTC] PHP Warning:  Constant ASTRA_PRO_CUSTOMIZER_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 38
+[08-Feb-2024 09:44:04 UTC] PHP Warning:  Constant ASTRA_THEME_VERSION already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 18
+[08-Feb-2024 09:44:04 UTC] PHP Warning:  Constant ASTRA_THEME_SETTINGS already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 19
+[08-Feb-2024 09:44:04 UTC] PHP Warning:  Constant ASTRA_THEME_DIR already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 20
+[08-Feb-2024 09:44:04 UTC] PHP Warning:  Constant ASTRA_THEME_URI already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 21
+[08-Feb-2024 09:44:04 UTC] PHP Warning:  Constant ASTRA_EXT_MIN_VER already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 27
+[08-Feb-2024 09:44:04 UTC] PHP Warning:  Constant ASTRA_PRO_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 37
+[08-Feb-2024 09:44:04 UTC] PHP Warning:  Constant ASTRA_PRO_CUSTOMIZER_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 38
+[08-Feb-2024 09:44:06 UTC] PHP Warning:  Constant ASTRA_THEME_VERSION already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 18
+[08-Feb-2024 09:44:06 UTC] PHP Warning:  Constant ASTRA_THEME_SETTINGS already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 19
+[08-Feb-2024 09:44:06 UTC] PHP Warning:  Constant ASTRA_THEME_DIR already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 20
+[08-Feb-2024 09:44:06 UTC] PHP Warning:  Constant ASTRA_THEME_URI already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 21
+[08-Feb-2024 09:44:06 UTC] PHP Warning:  Constant ASTRA_EXT_MIN_VER already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 27
+[08-Feb-2024 09:44:06 UTC] PHP Warning:  Constant ASTRA_PRO_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 37
+[08-Feb-2024 09:44:06 UTC] PHP Warning:  Constant ASTRA_PRO_CUSTOMIZER_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 38
+[08-Feb-2024 09:44:20 UTC] PHP Warning:  Constant ASTRA_THEME_VERSION already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 18
+[08-Feb-2024 09:44:20 UTC] PHP Warning:  Constant ASTRA_THEME_SETTINGS already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 19
+[08-Feb-2024 09:44:20 UTC] PHP Warning:  Constant ASTRA_THEME_DIR already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 20
+[08-Feb-2024 09:44:20 UTC] PHP Warning:  Constant ASTRA_THEME_URI already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 21
+[08-Feb-2024 09:44:20 UTC] PHP Warning:  Constant ASTRA_EXT_MIN_VER already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 27
+[08-Feb-2024 09:44:20 UTC] PHP Warning:  Constant ASTRA_PRO_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 37
+[08-Feb-2024 09:44:20 UTC] PHP Warning:  Constant ASTRA_PRO_CUSTOMIZER_UPGRADE_URL already defined in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra\functions.php on line 38
+[08-Feb-2024 09:46:20 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[08-Feb-2024 09:46:20 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[08-Feb-2024 09:46:20 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[08-Feb-2024 09:46:20 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[08-Feb-2024 09:46:20 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[15-Feb-2024 19:29:08 UTC] PHP Fatal error:  Cannot redeclare register_my_menu() (previously declared in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php:26) in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php on line 32
+[15-Feb-2024 19:29:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[15-Feb-2024 19:29:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[15-Feb-2024 19:29:33 UTC] PHP Fatal error:  Cannot redeclare register_my_menu() (previously declared in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php:26) in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php on line 32
+[15-Feb-2024 19:29:33 UTC] PHP Fatal error:  Cannot redeclare register_my_menu() (previously declared in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php:26) in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php on line 32
+[15-Feb-2024 19:29:44 UTC] PHP Fatal error:  Cannot redeclare register_my_menu() (previously declared in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php:26) in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php on line 32
+[15-Feb-2024 19:30:49 UTC] PHP Fatal error:  Cannot redeclare register_my_menu() (previously declared in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php:26) in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php on line 32
+[15-Feb-2024 19:32:49 UTC] PHP Fatal error:  Cannot redeclare register_my_menu() (previously declared in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php:26) in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php on line 32
+[15-Feb-2024 19:34:29 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-admin\customize.php(13): require_once('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Feb-2024 19:34:29 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Feb-2024 19:34:46 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\marga\\...')
+#6 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Feb-2024 19:35:03 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-admin\customize.php(13): require_once('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Feb-2024 19:35:03 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Feb-2024 19:35:13 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-admin\customize.php(13): require_once('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Feb-2024 19:35:13 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Feb-2024 19:35:43 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-admin\customize.php(13): require_once('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Feb-2024 19:35:43 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Feb-2024 19:35:44 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\marga\\...')
+#6 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Feb-2024 19:35:44 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Feb-2024 19:36:08 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\marga\\...')
+#6 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Feb-2024 19:36:08 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 12:34:24 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menus" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 12:34:24 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menus" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 15:04:56 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php:27
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(324): register_my_menu('')
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#7 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#8 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php on line 27
+[20-Feb-2024 15:04:56 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php:27
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(324): register_my_menu('')
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#7 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#8 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\themes\astra-child\functions.php on line 27
+[20-Feb-2024 15:21:28 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 15:21:28 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 15:23:59 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 15:23:59 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 15:24:10 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 15:24:10 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 15:24:10 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 15:24:10 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 15:24:11 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 15:24:11 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 15:24:11 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[20-Feb-2024 15:24:11 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_my_menu" not found or invalid function name in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-settings.php(621): do_action('after_setup_the...')
+#3 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-config.php(103): require_once('C:\\Users\\marga\\...')
+#4 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-load.php(50): require_once('C:\\Users\\marga\\...')
+#5 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\marga\\...')
+#6 C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\index.php(17): require('C:\\Users\\marga\\...')
+#7 {main}
+  thrown in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Feb-2024 13:56:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:30:11 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:35:06 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\royal-elementor-addons\includes\controls\wpr-ajax-select2\wpr-control-ajax-select2-api.php on line 137
+[21-Feb-2024 18:35:06 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\royal-elementor-addons\includes\controls\wpr-ajax-select2\wpr-control-ajax-select2-api.php on line 138
+[21-Feb-2024 18:35:06 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\royal-elementor-addons\includes\controls\wpr-ajax-select2\wpr-control-ajax-select2-api.php on line 137
+[21-Feb-2024 18:35:06 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\royal-elementor-addons\includes\controls\wpr-ajax-select2\wpr-control-ajax-select2-api.php on line 138
+[21-Feb-2024 18:35:07 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\royal-elementor-addons\includes\controls\wpr-ajax-select2\wpr-control-ajax-select2-api.php on line 137
+[21-Feb-2024 18:35:07 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\royal-elementor-addons\includes\controls\wpr-ajax-select2\wpr-control-ajax-select2-api.php on line 138
+[21-Feb-2024 18:35:07 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\royal-elementor-addons\includes\controls\wpr-ajax-select2\wpr-control-ajax-select2-api.php on line 137
+[21-Feb-2024 18:35:07 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\royal-elementor-addons\includes\controls\wpr-ajax-select2\wpr-control-ajax-select2-api.php on line 138
+[21-Feb-2024 18:38:34 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:38:46 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:38:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:38:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:38:59 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\royal-elementor-addons\includes\controls\wpr-ajax-select2\wpr-control-ajax-select2-api.php on line 137
+[21-Feb-2024 18:38:59 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\royal-elementor-addons\includes\controls\wpr-ajax-select2\wpr-control-ajax-select2-api.php on line 138
+[21-Feb-2024 18:38:59 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\royal-elementor-addons\includes\controls\wpr-ajax-select2\wpr-control-ajax-select2-api.php on line 137
+[21-Feb-2024 18:38:59 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\marga\OneDrive\Documents\OPENCLASSROOMS\Projet 4\planty\app\public\wp-content\plugins\royal-elementor-addons\includes\controls\wpr-ajax-select2\wpr-control-ajax-select2-api.php on line 138
+[21-Feb-2024 18:39:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:39:04 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:39:09 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:39:14 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:39:19 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:39:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:39:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:39:34 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:39:39 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:39:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:39:49 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:40:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:41:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:42:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:43:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:44:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:45:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:46:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:47:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:48:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:49:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:50:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:51:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:52:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:53:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:54:59 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:55:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:56:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:57:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:58:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 18:59:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:00:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:01:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:02:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:03:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:04:49 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:05:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:06:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:07:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:08:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:09:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:10:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:10:19 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:10:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:10:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:10:34 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:10:39 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:10:44 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:10:49 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:10:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:10:59 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:11:04 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:11:13 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:11:14 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:11:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:12:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:13:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:14:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:15:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:16:49 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:17:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:18:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:19:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:20:53 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:21:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:22:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:23:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:24:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:25:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[21-Feb-2024 19:26:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[22-Feb-2024 14:30:57 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[22-Feb-2024 14:31:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[22-Feb-2024 14:31:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[22-Feb-2024 14:31:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[22-Feb-2024 15:30:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[22-Feb-2024 15:44:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[22-Feb-2024 15:44:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[22-Feb-2024 15:44:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[22-Feb-2024 15:50:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[22-Feb-2024 17:12:01 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[22-Feb-2024 17:29:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[22-Feb-2024 19:11:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[23-Feb-2024 13:52:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[23-Feb-2024 13:52:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:41:04 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:41:09 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:41:14 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:41:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:41:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:41:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:41:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:41:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:41:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:41:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:42:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:42:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:42:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:42:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:42:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:43:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:44:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:45:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:46:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:47:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:48:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:49:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:50:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:51:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:52:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:53:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:54:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:55:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:56:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:57:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:57:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:57:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[24-Feb-2024 17:57:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 11:58:19 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 11:59:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 12:15:34 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 12:25:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 12:25:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 12:26:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 12:51:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 13:04:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 14:17:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 14:17:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 14:18:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 14:18:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 14:18:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 14:18:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 14:19:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 14:19:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 14:20:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 14:43:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[26-Feb-2024 16:19:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[29-Feb-2024 14:38:37 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[29-Feb-2024 15:20:09 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[29-Feb-2024 17:31:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[29-Feb-2024 17:31:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[29-Feb-2024 17:31:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[29-Feb-2024 17:31:37 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[29-Feb-2024 17:31:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[29-Feb-2024 17:31:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[29-Feb-2024 17:32:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[29-Feb-2024 17:32:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 12:36:59 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 12:37:04 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 12:37:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 14:17:38 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 14:17:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 14:40:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:28:35 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:28:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:28:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:28:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:28:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:29:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:29:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:29:10 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:29:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:29:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:29:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:29:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:29:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:29:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:29:46 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:29:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:29:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:30:01 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:30:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:30:11 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:30:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:30:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:30:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:31:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:32:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:33:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:34:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:35:33 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:36:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:37:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:38:33 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:39:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:40:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:41:25 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:41:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[06-Mar-2024 17:41:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected

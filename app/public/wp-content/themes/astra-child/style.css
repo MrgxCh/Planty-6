@@ -1,0 +1,350 @@
+/*
+Theme Name: Astra Child
+Theme URI: https://wpastra.com/
+Template: astra
+Author: Brainstorm Force
+Author URI: https://wpastra.com/about/?utm_source=theme_preview&utm_medium=author_link&utm_campaign=astra_theme
+Description: Astra is fast, fully customizable &amp; beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL &amp; Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained &amp; Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!
+Tags: custom-menu,custom-logo,entertainment,one-column,two-columns,left-sidebar,e-commerce,right-sidebar,custom-colors,editor-style,featured-images,full-width-template,microformats,post-formats,rtl-language-support,theme-options,threaded-comments,translation-ready,blog
+Version: 4.6.4.1707385580
+Updated: 2024-02-08 09:46:20
+
+*/
+
+/*font-family*/
+
+@media screen and (min-width:1024px) {
+
+  /*header*/
+
+  .header {
+    display: inline-block;
+  }
+
+  /*logo*/
+
+  .logo {
+    width: 10%;
+    float: left;
+    margin: 1.5% 0% 1% 5%
+  }
+
+  /*rencontrer menu*/
+
+  .main-menu {
+    background-color: white;
+  }
+
+  .nav-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-menu li {
+    float: right;
+    margin: 1% 3% 1% 0%;
+  }
+
+  .nav-menu a {
+    color: black;
+    font-family: Syne;
+    font-size: 1em;
+  }
+
+  .nav-menu a:hover {
+    color: black;
+    font-weight: 700;
+  }
+
+  /*commander menu*/
+
+  .command-menu {
+    background-color: white;
+  }
+
+  .order-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .order-menu li {
+    float: right;
+    margin: 1% 0% 1% 0%;
+  }
+
+  .order-menu a {
+    color: white;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 1em;
+    background-color: #DC9F96;
+    padding: 4em 3em 3em 3em;
+  }
+
+  .order-menu a:hover {
+    color: white;
+    font-weight: 700;
+    background-color: #C02E44;
+  }
+
+  /*admin menu*/
+
+  .admin-menu {
+    background-color: white;
+  }
+
+  .log-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .log-menu li {
+    float: right;
+    margin: 1% 3% 1% 0%;
+  }
+
+  .log-menu a {
+    color: black;
+    font-family: Syne;
+    font-weight: 400;
+    font-size: 1em;
+  }
+
+  .log-menu a:hover {
+    color: black;
+    font-weight: 700;
+  }
+
+  /*main page*/
+  .top-main-page {
+    border-bottom-right-radius: 50% 10%;
+    border-bottom-left-radius: 50% 10%;
+    border-bottom: solid 15px #e3d9d0;
+  }
+
+  .end-main-page {
+    border-bottom-right-radius: 10% 1%;
+    border-bottom-left-radius: 10% 1%;
+  }
+
+  .main-page-text h2 {
+    color: #3b8e46;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 2em;
+  }
+
+  /*Nous rencontrer page*/
+
+  .top-second-page {
+    border-bottom-right-radius: 50% 20%;
+    border-bottom-left-radius: 50% 20%;
+  }
+
+  .second-page-flower {
+    position: absolute;
+    left: 23%;
+    top: 20%;
+  }
+
+  .second-page-container {
+    margin: 0;
+    padding: 0;
+  }
+
+  /*third page*/
+  .border-command {
+    border-right: solid 2px;
+    color: white;
+  }
+
+}
+
+/*Media queries, responsive pour tablette, smartphone*/
+
+/*tablette responsive*/
+
+@media only screen and (min-width: 600px) and (max-width: 1024px) {
+
+  .header {
+    display: inline-block;
+  }
+
+  .logo {
+    width: 20%;
+    float: left;
+    margin: 5% 0% 0% 5%;
+  }
+
+  /*nous rencontrer menu position*/
+  .nav-menu li {
+    float: right;
+    margin: 0% 3% 0% 0%;
+    list-style: none;
+  }
+
+  .nav-menu a:hover {
+    color: black;
+    font-weight: 700;
+  }
+
+  /*commander menu position*/
+  .order-menu li {
+    float: right;
+    margin: 0% 0% 2% 0%;
+    list-style-type: none;
+  }
+
+  .order-menu a {
+    color: white;
+    background-color: #DC9F96;
+    padding: 1em 2em;
+  }
+
+  .order-menu a:hover {
+    color: white;
+    font-weight: 700;
+    background-color: #C02E44;
+  }
+
+  /*admin menu position*/
+  .log-menu li {
+    float: right;
+    margin: 0% 3% 0% 0%;
+    list-style-type: none;
+  }
+
+  .log-menu a:hover {
+    color: black;
+    font-weight: 700;
+  }
+
+  /*menus style*/
+  .nav-menu a,
+  .log-menu a {
+    color: black;
+    font-family: 'Syne', sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+  }
+
+  /* Main Page */
+  .top-main-page {
+    border-bottom-right-radius: 30% 10%;
+    border-bottom-left-radius: 30% 10%;
+    border-bottom: solid 10px #e3d9d0;
+  }
+
+  .main-page-text h2 {
+    color: #3b8e46;
+    font-family: Syne;
+    font-weight: 700;
+    font-size: 1em;
+  }
+
+  /* Second Page */
+  .top-second-page {
+    border-bottom-right-radius: 40% 20%;
+    border-bottom-left-radius: 40% 20%;
+  }
+
+  .second-page-flower {
+    width: 20%;
+    position: absolute;
+    left: 10%;
+    top: 15%;
+  }
+
+  .second-page-container {
+    margin: 0;
+    padding: 0;
+  }
+
+  /*third page*/
+  .border-command {
+    border-right: solid 2px;
+    color: white;
+  }
+}
+
+/*telephone responsive*/
+@media only screen and (max-width: 600px) {
+  .header {
+    display: inline-block;
+  }
+
+  .logo {
+    width: 20%;
+    float: left;
+    margin: 10% 0% 0% 5%;
+  }
+
+  /*nous rencontrer menu position*/
+  .nav-menu li {
+    float: right;
+    margin: 0% 2% 0% 0%;
+    list-style: none;
+  }
+
+  .nav-menu a:hover {
+    color: black;
+    font-weight: 700;
+  }
+
+  /*commander menu position*/
+  .order-menu li {
+    float: right;
+    margin: 0;
+    list-style-type: none;
+  }
+
+  .order-menu a {
+    color: white;
+    background-color: #DC9F96;
+    padding: 1em 1em;
+    font-size: 0.7em;
+  }
+
+  .order-menu a:hover {
+    color: white;
+    font-weight: 700;
+    background-color: #C02E44;
+  }
+
+  /*admin menu position*/
+  .log-menu li {
+    float: right;
+    margin: 0% 2% 0% 0%;
+    list-style-type: none;
+  }
+
+  .log-menu a:hover {
+    color: black;
+    font-weight: 700;
+  }
+
+  /*menus style*/
+  .nav-menu a,
+  .log-menu a {
+    color: black;
+    font-family: 'Syne', sans-serif;
+    font-weight: 400;
+    font-size: 0.7em;
+  }
+
+  /*second-page*/
+
+  .second-page-container {
+    margin: 0;
+    padding: 0;
+  }
+
+  /*third page*/
+  .border-command {
+    border-right: solid 2px;
+    color: white;
+  }
+}
